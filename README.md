@@ -1,0 +1,2 @@
+# Gedolu
+Gıda
